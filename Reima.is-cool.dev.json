@@ -1,0 +1,17 @@
+{
+    "description": "My Personal Web Page",
+
+    "domain": "is-cool.dev",
+    "subdomain": "Reima",
+
+    "owner": {
+        "repo": "https://github.com/reinier03/making-a-CNAME",
+        "email": "reinier.mayea@nauta.cu"
+    },
+
+    "record": {
+        "CNAME": "https://reinier03.github.io/",
+    },
+
+    "proxied": false
+}
